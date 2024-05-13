@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<h1>Ice Breaker</h1>
 <h2>1. Project Overview</h2>
 <p><i>Ice Breaker</i> is a Flask-based web application designed to streamline professional networking by providing insightful icebreakers and detailed summaries based on LinkedIn profiles. It uses advanced language models to generate content that can help facilitate more meaningful connections at networking events or in professional settings.</p>
 
