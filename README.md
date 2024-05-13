@@ -9,7 +9,7 @@
     <ul>
         <li>Frontend: HTML, CSS, JavaScript, jQuery</li>
         <li>Backend: Flask, Python</li>
-        <li>Language Processing: LangChain, OpenAI GPT-3.5 Turbo</li>
+        <li>Language Processing: LangChain, LLM's OpenAI GPT-3.5 Turbo</li>
         <li>APIs: LinkedIn (via ProxyCurl), tavily_search, custom scraping tools</li>
         <li>Environment Management: <code>dotenv</code> for managing environment variables</li>
     </ul>
