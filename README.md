@@ -4,6 +4,7 @@
 <body>
 <h2>1. Project Overview</h2>
 <p><i>Ice Breaker</i> utilizes  <b>Langchain</b> in a <b>Flask-based</b> web application designed to streamline professional networking by providing insightful icebreakers and detailed summaries based on LinkedIn profiles. It uses advanced language models to generate content that can help facilitate more meaningful connections at networking events or in professional settings.</p>
+<p>Given a user's name, a langchian is invoked using gpt 3.5 turbo returning a summary, ice breaker, topics of interest, and some facts about that person.</p>
 <h3>Landing Page</h3>
 <img src="https://github.com/Papakobina/Ice-Breaker/blob/main/homepage-Ice_breaker.png"></img>
 <h3>Demo</h3>
@@ -24,6 +25,7 @@
         <li>Implementing and managing API calls, especially handling dynamic data scraping and processing.</li>
         <li>Enhancing Flask applications with advanced language processing capabilities.</li>
         <li>Developing efficient data parsing and cleaning techniques to ensure quality input for language models.</li>
+        <li>Utilizing the different aspects of prompt engineering to receive efficient outputs</li>
     </ul>
 
   <h2>4. Technical Explanation</h2>
