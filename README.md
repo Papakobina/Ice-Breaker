@@ -4,11 +4,10 @@
 <body>
 <h2>1. Project Overview</h2>
 <p><i>Ice Breaker</i> utilizes  <b>Langchain</b> in a <b>Flask-based</b> web application designed to streamline professional networking by providing insightful icebreakers and detailed summaries based on LinkedIn profiles. It uses advanced language models to generate content that can help facilitate more meaningful connections at networking events or in professional settings.</p>
-<p>Given a user's name, a langchian is invoked using gpt 3.5 turbo returning a summary, ice breaker, topics of interest, and some facts about that person.</p>
-<h3>Landing Page</h3>
-<img src="https://github.com/Papakobina/Ice-Breaker/blob/main/homepage-Ice_breaker.png"></img>
+<p>Given a user's name, a langchian is invoked using gpt 3.5 turbo returning a summary, ice breaker, topics of interest, and some facts about that person. This entails using a react agent to scrape the web and find the LinkedIn URL of the given name using custom-made tools and using  ProxyURL API to scrape that individual's LinkedIn.</p>
 <h3>Demo</h3>
-<img src="https://github.com/Papakobina/Ice-Breaker/blob/main/demo_image.png"></img>
+<p>Here is a link to the demo on youtube: https://www.youtube.com/watch?v=Xltc-nLsSKo</p>
+<img src="https://github.com/Papakobina/Ice-Breaker/blob/main/homepage-Ice_breaker.png"></img>
   <h2>2. Technology Stack</h2>
     <ul>
         <li>Frontend: HTML, CSS, JavaScript, jQuery</li>
